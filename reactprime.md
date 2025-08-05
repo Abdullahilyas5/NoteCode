@@ -1,1 +1,0 @@
-chip - for user display
